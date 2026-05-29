@@ -49,10 +49,10 @@ class SeanPereira:
 
 | Project | Description | Stack |
 |---|---|---|
-| 🩺 **CancerCare AI** | RAG-powered oncology support platform — LLM-as-a-Judge evaluation to mitigate hallucinations and safety violations | `Python` `FastAPI` `RAG` `FAISS` `PostgreSQL` `Llama-3.3` |
-| 🌾 **DrCropper.ai** | Full-stack AI platform — 94% accurate CNN for crop recommendation via soil image analysis + farmer chatbot | `Python` `CNN` `Flask` `MongoDB` |
-| 🎨 **ChromaGen.AI** | Deep learning image colorization — 92% fidelity, scalable REST API | `Python` `TensorFlow` `Flask` `REST APIs` |
-| 🎓 **LLC@FrCRCE** | Course management system for 200+ students — dual interfaces, JWT auth, real-time enrollment analytics | `Node.js` `Express.js` `MongoDB` `React.js` |
+| **CancerCare AI** | RAG-powered oncology support platform — LLM-as-a-Judge evaluation to mitigate hallucinations and safety violations | `Python` `FastAPI` `RAG` `FAISS` `PostgreSQL` `Llama-3.3` |
+| **DrCropper.ai** | Full-stack AI platform — 94% accurate CNN for crop recommendation via soil image analysis + farmer chatbot | `Python` `CNN` `Flask` `MongoDB` |
+| **ChromaGen.AI** | Deep learning image colorization — 92% fidelity, scalable REST API | `Python` `TensorFlow` `Flask` `REST APIs` |
+| **LLC@FrCRCE** | Course management system for 200+ students — dual interfaces, JWT auth, real-time enrollment analytics | `Node.js` `Express.js` `MongoDB` `React.js` |
 
 ---
 
