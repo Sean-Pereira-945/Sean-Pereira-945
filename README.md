@@ -37,10 +37,9 @@
 
 class SeanPereira:
     location   = "Mumbai, India 🇮🇳"
-    education  = "B.E. Computer Engineering @ CRCE (CGPA: 8.68 / 10.0)"
+    education  = "B.E. Computer Engineering"
     currently  = ["building RAG systems", "shipping production AI apps"]
     interests  = ["ML research", "scalable architecture", "full-stack dev"]
-    fun_fact   = "Got 98% in 10th grade. Still debugs with print() 😄"
 ```
 
 ---
@@ -112,7 +111,7 @@ class SeanPereira:
 
 ## achievements
 
-- 🎯 &nbsp;**GATE CS 2026** — Qualified national-level CS exam
+- 🎯 &nbsp;**GATE CS 2026** — Qualified national-level CS exa
 - ☁️ &nbsp;**Google Cloud Engineer** — Certified via Google Skills Boost
 - ☁️ &nbsp;**AWS Cloud Practitioner** — Certified via AWS Academy
 - 🥉 &nbsp;**3rd Place — Hackathon 3.0** — IES College of Management & Research, Bandra 2025
