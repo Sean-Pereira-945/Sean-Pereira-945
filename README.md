@@ -120,11 +120,7 @@ class SeanPereira:
 
 ---
 
-## activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sean-Pereira-945&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true" width="95%"/>
-</div>
 
 ---
 
