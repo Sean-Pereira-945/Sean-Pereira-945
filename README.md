@@ -49,8 +49,6 @@ class SeanPereira:
 | Project | Description | Stack |
 |---|---|---|
 | **CancerCare AI** | RAG-powered oncology support platform — LLM-as-a-Judge evaluation to mitigate hallucinations and safety violations | `Python` `FastAPI` `RAG` `FAISS` `PostgreSQL` `Llama-3.3` |
-| **DrCropper.ai** | Full-stack AI platform — 94% accurate CNN for crop recommendation via soil image analysis + farmer chatbot | `Python` `CNN` `Flask` `MongoDB` |
-| **ChromaGen.AI** | Deep learning image colorization — 92% fidelity, scalable REST API | `Python` `TensorFlow` `Flask` `REST APIs` |
 | **LLC@FrCRCE** | Course management system for 200+ students — dual interfaces, JWT auth, real-time enrollment analytics | `Node.js` `Express.js` `MongoDB` `React.js` |
 
 ---
@@ -111,16 +109,24 @@ class SeanPereira:
 
 ## achievements
 
-- 🎯 &nbsp;**GATE CS 2026** — Qualified national-level CS exa
 - ☁️ &nbsp;**Google Cloud Engineer** — Certified via Google Skills Boost
 - ☁️ &nbsp;**AWS Cloud Practitioner** — Certified via AWS Academy
-- 🥉 &nbsp;**3rd Place — Hackathon 3.0** — IES College of Management & Research, Bandra 2025
-- 🔬 &nbsp;**Avishkar Research Convention 2025** — Represented CRCE at Mumbai University
-- 🤝 &nbsp;**NSS Member** — National Service Scheme, active community volunteer 2025
+
 
 ---
 
+## activity
 
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="contribution activity" width="100%"/>
+
+</div>
+
+**recent activity**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
