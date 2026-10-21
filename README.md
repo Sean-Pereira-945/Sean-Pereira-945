@@ -115,18 +115,6 @@ class SeanPereira:
 
 ---
 
-## activity
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="contribution activity" width="100%"/>
-
-</div>
-
-**recent activity**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
