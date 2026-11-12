@@ -26,7 +26,7 @@
 
 ## ◆ &nbsp;About
 
-Computer Engineering student at **Fr. CRCE, Mumbai**, building backend services, real-time web applications, and retrieval pipelines in Python, Java, and JavaScript. I like taking loosely defined problems all the way to tested, deployed software, with an eye on reliability, security, and the person using it.
+Computer Engineering student , building backend services, real-time web applications, and retrieval pipelines in Python, Java, and JavaScript. I like taking loosely defined problems all the way to tested, deployed software, with an eye on reliability, security, and the person using it.
 
 ```python
 class SeanPereira:
